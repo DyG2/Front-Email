@@ -1,0 +1,27 @@
+:root {
+  bg-color : #282c34;
+  bg-color-light : #3a3f4b;
+}
+
+body{
+  background-color: #282c34;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+
+.bg-color{
+  background-color: #282c34;
+}
+
+.bg-color-light{
+  background-color: #3a3f4b;
+}
+
+.hover-scale:hover{
+  transform: scale(1.01);
+}
+
+.hover-bg-color:hover{
+  background-color: #3a3f4b;
+}
